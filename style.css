@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+}
+.recipe-list li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    background-color: darkgray;
+}
+li {
+    font-size: 18px;
+}
+.ingredients {
+    background-color: lightgreen;
+}
+.instructions {
+    background-color: lightgoldenrodyellow;
+}
