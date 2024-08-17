@@ -1,10 +1,22 @@
+* {
+    box-sizing: border-box;
+}
 h1 {
     font-family: 'Courier New', Courier, monospace;
     background-color: aqua;
 }
-.recipe-list li {
+.recipe-list {
+    text-align: center;
+    margin: 30px;
+}
+.recipe-list h2 {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 20px;
+    width: 200px;
+    margin: 10px 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+    background-color: blanchedalmond;
 }
 h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
